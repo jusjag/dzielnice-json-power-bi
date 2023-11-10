@@ -3,7 +3,7 @@ Pliki .json (topoJSON) sformatowane oraz osobiście przetestowane pod kątem uż
 
 ### Warunki użytkowania:
 Wszystkie te dane są publicznie dostępne a moja praca polegała wyłącznie na dostosowaniu pliku.<br>
-Bierz i korzystaj ku chwale ojczyzny :)<br>
+Bierz i korzystaj ku chwale ojczyzny :)  Pamiętaj, że te dane mają charakter jedynie poglądowy i nie mają żadnej mocy prawnej.<br>
 Będzie mi miło jeśli oznaczysz źródło, ale nie jest to wymagane.<br>
 
 ## Spis treści:
